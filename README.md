@@ -292,18 +292,3 @@ product-analytics-retention/
 - Business Storytelling
 - Executive Reporting
 
----
-
-## Author
-
-**Sara Hosseini**
-
-**Business & Data Analyst**
-
-Berlin, Germany
-
-- **LinkedIn:** https://www.linkedin.com/in/sara-hosseini-analyst/
-- **GitHub:** github.com/Sara-Hosseini
-- **Email:** sarahosseinigh@gmail.com
-
-Feel free to explore the project, provide feedback, or connect with me.
